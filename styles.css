@@ -1,0 +1,78 @@
+.encabezado{
+    background-color: rgb(186, 244, 244);
+    width:100%;
+
+}
+.row{
+    justify-content: center;
+    text-align: center;
+}
+footer{
+    
+    background-color: rgb(135, 135, 234);
+}
+.col{
+    justify-content: center;
+    text-align: center;
+}
+.boton{
+    border-radius: 20%;
+    color: white;
+    background-color: blue;
+}
+#caste{
+    text-align: center;
+    background-color: rgb(233, 180, 180);
+   display: none;
+}
+#ingle{
+    text-align: center;
+background-color: rgb(169, 108, 227);
+display: block;
+}
+.col-6{
+    background-color: rgb(135, 135, 234);
+}
+#linke{
+    height: 80px;
+    width: 90px;
+    padding: 2px;
+    border-radius: 20px;
+}
+#mail{
+    height: 80px;
+    width: 90px;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+#evac{
+    width: 180px;
+    height: 200px;
+    padding: 2px;
+    border-radius: 20px;
+}
+#evai{
+    width: 180px;
+    height: 200px;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+@media (max-width: 600px) {
+    #evac{
+        width: 130px;
+        height: 135px;
+        padding: 2px;
+    }
+    #evai{
+        width: 130px;
+        height: 135px;
+        padding: 2px;
+    }
+  }
+
+  ul{
+    list-style: none;
+  }
+  
